@@ -1,6 +1,4 @@
 
-
-````markdown
 # 💰 Adult Census Income Prediction
 
 This project predicts whether a person earns **>50K** or **<=50K** annually using the [Adult Census Income dataset](https://archive.ics.uci.edu/ml/datasets/adult).  
